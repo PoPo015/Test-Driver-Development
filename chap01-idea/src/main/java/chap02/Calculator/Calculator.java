@@ -1,4 +1,4 @@
-package chap02;
+package chap02.Calculator;
 
 public class Calculator {
 

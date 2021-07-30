@@ -1,4 +1,4 @@
-package chap02;
+package chap02.Test.Calculator;
 
 public class Calculator {
 
